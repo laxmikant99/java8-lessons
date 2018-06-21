@@ -1,4 +1,4 @@
-## List of problem statements and coding style comparison for nio2 api
+## List of problem statements and coding style comparison for collection api
 
  Problem statement 1: How would you iterate over a Collection ? Check [this](./src/com/laxmikant/java8/collection/ExternalInternalItrator.java) for use of new forEach api.
  
